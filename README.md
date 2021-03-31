@@ -1,7 +1,7 @@
 Lien pour Commencer votre Aventure
 
-https://douillet.github.io/platformer-main/
+https://douillet.github.io/InGame_PixelArt/
 
 lien pour le "localhost":
 
-http://localhost/platformer-main/
+http://localhost/InGame_PixelArt/
